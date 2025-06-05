@@ -53,3 +53,7 @@ class EMS:
             print(self.d[emp_id])
         else:
             print("Employee ID not found")
+
+ems= EMS()
+ems.main_menu()
+
